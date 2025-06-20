@@ -40,3 +40,5 @@ def lire_fichier(chemin):
 
 
 
+
+
